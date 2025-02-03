@@ -12,6 +12,8 @@ Offline evaluations to measure the effect of your AI model. As you iterate on an
 To illustrate how to evaluate a model using the offline evaluation metrics detailed in this book, we'll use the LLM lama. 
 You can download the lama AI model from huggingface. Huggingface is a standarized interface. 
 
+A common type of model you can find out of the box image classifers (animal detection).
+
 ## What's in this repository
 You'll find notebooks for each chapter, with example code to compute the offline evaluation formulas. Each notebook references data that's available in the sourcedata folder. 
 
