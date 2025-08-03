@@ -21,12 +21,9 @@ Jupyter notebooks are perfect for this project because they blend **narrative, c
 
 Each notebook is self‑contained and mirrors a concept from the book.
 
-- **Chapters 2–5:** Walk through a simplified **offline evaluation workflow** using a movie recommendation example. You’ll see:
-  - How to create mock datasets
-  - A toy recommendation algorithm
-  - Functions to compute metrics like precision
+- **Chapters 2–5:** Walk through a simplified **offline evaluation workflow** using a movie recommendation example.
 
-- **Chapters 6–10:** Currently in progress—new notebooks will be added as these chapters are written. In these later chapters, we’ll use the LLaMA large language model from Hugging Face as an example to demonstrate model evaluations in practice. Hugging Face provides a standardized interface for loading and working with models, making it easy to swap in other out‑of‑the‑box models—like image classifiers for tasks such as animal detection. The emphasis in these chapters isn’t on building or fine‑tuning the model itself, but on illustrating all the steps, considerations, and details involved in evaluating a model effectively.
+- **Chapters 6–14:** Currently in progress—new notebooks will be added as these chapters are written. In these later chapters, we’ll use the LLaMA large language model from Hugging Face as an example to demonstrate model evaluations in practice. Hugging Face provides a standardized interface for loading and working with models, making it easy to swap in other out‑of‑the‑box models—like image classifiers for tasks such as animal detection. The emphasis in these chapters isn’t on building or fine‑tuning the model itself, but on illustrating all the steps, considerations, and details involved in evaluating a model effectively.
 
 ## Why This Repo Exists
 
