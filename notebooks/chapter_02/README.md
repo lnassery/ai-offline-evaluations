@@ -16,11 +16,11 @@ The good news **you don’t need to install anything on your computer.** All you
 You have **two options**:
 
 **Option A — Download and Upload**
-1. Download this notebook file (`offlineevaluationanatomy (2).ipynb`) to your computer.
+1. Download this notebook file (`offlineevaluationanatomy.ipynb`) to your local.
 2. In Colab, click **File → Upload Notebook**.
 3. Select the downloaded file.
 
-**Option B — Open Directly from GitHub** (if this repo is public)
+**Option B — Open Directly from GitHub** 
 1. In Colab, click **File → Open Notebook → GitHub tab**.
 2. Paste the GitHub repo URL (or the notebook file URL).
 3. Select the notebook from the list.
@@ -30,8 +30,8 @@ You have **two options**:
 - Colab will start a free runtime for you (takes a few seconds).
 
 ### 4. Run Each Cell
-- Click on the first code cell and press **Shift + Enter** (or click the ▶️ play button).
-- Continue running cells in order — the outputs will appear beneath each one.
+- Click on the first code cell and click the play button. 
+- Continue running cells in order. The outputs will appear beneath each cell executed. 
 
 ### 5. Read & Experiment
 - Each section of the notebook mirrors a concept from Chapter 2 of the book.
@@ -39,8 +39,7 @@ You have **two options**:
 
 ---
 
-## ℹ️ Notes
+## Notes
 
 - **No setup required.** You don’t need Python installed locally — Colab has everything ready to go.
 - **Dependencies are pre-installed.** The notebook uses `pandas`, `numpy`, and `matplotlib`, which Colab already includes.
-- **Optional:** If you *do* want to run this locally instead, you’ll need Python 3.8+, Jupyter Notebook, and those same libraries.
