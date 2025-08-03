@@ -27,7 +27,7 @@ You have **two options**:
 
 ### 3. Connect to a Runtime
 - Click the **Connect** button in the top right of Colab.
-- Colab will start a free runtime for you (takes a few seconds).
+- Colab will start a free runtime for you (takes a few seconds, you should see a green checkmark next to the Connect button).
 
 ### 4. Run Each Cell
 - Click on the first code cell and click the play button. 
