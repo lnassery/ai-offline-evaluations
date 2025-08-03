@@ -27,7 +27,7 @@ Each notebook is self‑contained and mirrors a concept from the book.
 
 ## Why This Repo Exists
 
-Evaluations, whether its offline, online or an LLM-as-a-judge, are the reality check for your AI model. These examples are here to help you:
+Evaluations, whether its offline, online or an LLM-as-a-judge, are the reality check for your AI model. These examples exist for the following reasons: 
 - Understand the math and code behind key evaluation metrics
-- See how to structure diagnostics to spot model behavior issues
-- Use the code as a reference (or even a starting point) for your own evaluation workflows
+- See the general construction of an evaluation with simple datasets and examples
+- Use the code as a reference (or even a starting point) for your own evaluations 
