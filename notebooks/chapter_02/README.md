@@ -1,6 +1,8 @@
 # Chapter 2 Notebook – How to Run
 
-If you’re new to working with Jupyter notebooks, no worries, it's fairly easy setp. You can use these steps for chapters 2 - 6. 
+If you’re new to working with Jupyter notebooks, no worries, it's fairly easy setp. 
+
+You can use these steps for the notebooks associated to chapters 2 - 6. 
 
 ---
 
