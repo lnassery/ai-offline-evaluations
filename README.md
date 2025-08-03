@@ -26,17 +26,9 @@ Each notebook is self‑contained and mirrors a concept from the book.
 
 > ### **Why Notebooks?**
 > Jupyter notebooks are perfect for this project because they blend **narrative, code, and output in one place.**
-> - **Narrative:** Each notebook mirrors the explanations in the book, so you can read, tweak, and experiment without flipping between code and text.
-> - **Interactive:** You can run each cell step by step, inspect outputs, and modify code on the fly.
-> - **Accessible:** Since they run in the browser via Colab, you don’t need to set up a development environment—just click and explore.
-
----
-
-> ### **Why Python?**
-> Python is the **lingua franca of AI and machine learning**—the most widely used language for experimentation and production alike.
-> - **Rich ecosystem:** Libraries like `pandas`, `numpy`, and `matplotlib` make data handling and visualization simple and concise.
+> - **Fairly Interactive:** You can run each cell step by step, inspect outputs, and modify code on the fly.
+> - **Really Accessible:** Since they run in the browser via Colab, you don’t need to set up a development environment—just click and explore.
 > - **Familiarity:** Most data scientists and ML engineers already know Python, making the examples easy to follow.
-> - **Flexibility:** It’s just as good for quick experiments in notebooks as it is for production‑grade AI pipelines.
 
 ---
 
