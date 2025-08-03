@@ -11,7 +11,7 @@ You don’t need to install anything locally—all notebooks can run entirely in
 
 ## What’s Inside
 
-- 📂 **`/notebooks`** – Jupyter notebooks for each chapter.
+- **`/notebooks`** – Jupyter notebooks for each chapter.
 
 Each notebook is self‑contained and mirrors a concept from the book.
 
@@ -24,11 +24,11 @@ Each notebook is self‑contained and mirrors a concept from the book.
 
 ---
 
-> ### **Why Notebooks?**
-> Jupyter notebooks are perfect for this project because they blend **narrative, code, and output in one place.**
-> - **Fairly Interactive:** You can run each cell step by step, inspect outputs, and modify code on the fly.
-> - **Really Accessible:** Since they run in the browser via Colab, you don’t need to set up a development environment—just click and explore.
-> - **Familiarity:** Most data scientists and ML engineers already know Python, making the examples easy to follow.
+### **Why Notebooks?**
+Jupyter notebooks are perfect for this project because they blend **narrative, code, and output in one place.**
+- **Fairly Interactive:** You can run each cell step by step, inspect outputs, and modify code on the fly.
+- **Really Accessible:** Since they run in the browser via Colab, you don’t need to set up a development environment—just click and explore.
+- **Familiarity:** Most data scientists and ML engineers already know Python, making the examples easy to follow.
 
 ---
 
